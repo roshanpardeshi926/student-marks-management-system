@@ -10,7 +10,7 @@ public class DBConnection {
             con = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/marks",
                 "root",
-                "mysql@123"
+                "mysql@"
             );
         } catch (Exception e) {
             e.printStackTrace();
