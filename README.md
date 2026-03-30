@@ -50,6 +50,3 @@ Add your deployed link here
 Your Name
 https://github.com/roshanpardeshi926
 
-⭐ Support
-
-Give a ⭐ if you like this project!
